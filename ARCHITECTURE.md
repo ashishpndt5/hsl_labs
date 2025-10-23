@@ -154,6 +154,7 @@ PROJECT STRUCTURE:
 	│   │   ├── dashboard.blade.php
 	│   │   ├── patients/
 	│   │   ├── orders/
+			|	── /orders/products/
 	│   │   └── inventory/
 	│   └── js/ (if using Vue or Livewire)
 	└── config/
